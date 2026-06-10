@@ -13,9 +13,8 @@ Space Predictive Analytics é uma plataforma mobile inteligente de monitoramento
 
 | Nome | RM |
 |------|----|
-| Nome Completo | RM000000 |
-| Nome Completo | RM000000 |
-| Nome Completo | RM000000 |
+| Leonardo Luster Gomes | RM564448 |
+| Raphael Talarico Nascimento Silva | RM565219 |
 
 ---
 
