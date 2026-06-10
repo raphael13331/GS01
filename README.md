@@ -24,26 +24,10 @@ Space Predictive Analytics é uma plataforma mobile inteligente de monitoramento
 ![MISSÕES](file:///C:/Users/twitc/OneDrive/Imagens/Screenshots/Captura%20de%20tela%202026-06-09%20230650.png)
 Visão geral dos indicadores da missão: energia, temperatura, sinal, estabilidade orbital e acesso rápido a alertas e configurações.
 
-### Dashboard de Sensores
-![Sensores](./assets/screenshots/sensores.png)
-
-Gráficos de linha com leituras em tempo real simulado de temperatura, radiação, pressão atmosférica e umidade.
-
 ### Dashboard de Energia
 ![ENERGIA](file:///C:/Users/twitc/OneDrive/Imagens/Screenshots/Captura%20de%20tela%202026-06-09%20230703.png)
 
 Indicadores de carga da bateria, output dos painéis solares, consumo dos sistemas e balanço de energia.
-
-### Alertas
-![Alertas](./assets/screenshots/alertas.png)
-
-Lista de alertas ativos gerados automaticamente com nível de criticidade (critical/warning/info), confirmação individual e limpeza em massa.
-
-### Configurações
-![Config](./assets/screenshots/configuracoes.png)
-
-Formulário de configuração dos limiares de alerta com validação de inputs, feedback de erro e persistência com AsyncStorage.
-
 ---
 
 ## ✅ Funcionalidades
