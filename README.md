@@ -89,7 +89,7 @@ Escaneie o QR Code com o Expo Go para rodar no dispositivo físico.
 
 ## 🎬 Vídeo de Demonstração
 
-[Clique aqui para assistir à demonstração](https://youtube.com/...)
+[Clique aqui para assistir à demonstração do codigo](https://www.youtube.com/watch?v=7P8ShDHp3as)
 
 ---
 
